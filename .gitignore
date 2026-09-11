@@ -112,7 +112,6 @@ autoconf/compile
 /tfswap
 /txt2card
 /vmfplc2
-/winbuild
 
 # /html/images/
 /html/images/.DS_Store
@@ -188,3 +187,13 @@ allTests.*
 3330-shadow_1.cckd64
 3380-shadow_1.cckd64
 3390-shadow_1.cckd64
+/msvc.debug.AMD64.bin
+/msvc.debug.AMD64.cod
+/msvc.debug.AMD64.map
+/msvc.debug.AMD64.obj
+/msvc.debug.AMD64.pdb
+/msvc.debug.dllmod.bin
+/msvc.debug.dllmod.cod
+/msvc.debug.dllmod.map
+/msvc.debug.dllmod.obj
+/msvc.debug.dllmod.pdb
