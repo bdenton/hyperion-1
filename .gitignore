@@ -143,7 +143,7 @@ autoconf/compile
 *.o
 
 # GIT Generics - Shared Objects (including Windows DLLs)
-*.dll
+#*.dll
 *.so
 *.so.*
 *.dylib
