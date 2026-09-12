@@ -175,7 +175,7 @@ autoconf/compile
 # Editors
 *.aus
 *.bak
-*~
+#*~
 
 # QA Testing
 allTests.*
